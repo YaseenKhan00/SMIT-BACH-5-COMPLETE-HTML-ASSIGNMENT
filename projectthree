@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 3: Mobile App Development</title>
+    
+</head>
+<body>
+
+    <header>
+        <h1>Project 3: Mobile App Development</h1>
+    </header>
+
+    <main>
+        <p>This mobile app project focused on developing a task management app that helps users track and manage their daily tasks and deadlines. It was built for both iOS and Android platforms using React Native.</p>
+        <img src="https://via.placeholder.com/800x400" alt="Mobile App Mockup">
+
+        <h3>Steps Taken to Complete the Project:</h3>
+        <ol>
+            <li>Designed the UI/UX for the app using Adobe XD</li>
+            <li>Developed the mobile app using React Native</li>
+            <li>Implemented local notifications to remind users of tasks</li>
+            <li>Integrated a cloud database (Firebase) to store user data</li>
+            <li>Tested the app and launched it on both iOS and Android</li>
+        </ol>
+    </main>
+
+    <footer>
+        <p>Quick Links: <a href="project1.html">Project 1</a> | <a href="project2.html">Project 2</a> | <a href="portfolio.html">Back to Portfolio</a></p>
+    </footer>
+
+</body>
+</html>
